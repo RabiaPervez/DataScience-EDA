@@ -1,0 +1,1 @@
+The streamlit app has been deployed at https://rabiapervez-machinelearning-pythonkachillad-diabetes-app-5bmjye.streamlit.app/
