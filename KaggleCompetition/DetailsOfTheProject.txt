@@ -1,0 +1,5 @@
+This project has been done for a kaggle competition deployed at https://www.kaggle.com/code/sahilali744/less-women-in-stem-if-yes-why-so.
+This work was done to explore the hypothesis (do women choose the same pltforms and products preferred by men?) by using the provided data set by kaggle.
+The respective hypothesis was proposed to see the factors behind less number of women in STEM sectors.
+The project was perceived like a research work and written in a book like format to make it easier for even a newbie to undrstand the concepts and codes' purposes.
+The overview of the work done has also been elaborated in a small video on https://youtu.be/JkBxprtIxjI
